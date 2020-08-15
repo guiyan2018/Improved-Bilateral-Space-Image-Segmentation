@@ -4,7 +4,7 @@ README (08/16/2020)
 -------------------------------------------------------------------------
 
 This executable code is a simplified implementation of interactive image segmentation method described in the following paper: 
-Gui Yan, Zeng Guang, Tang Wen: Improved Bilateral Space Image Segmentation with Reliable Color Modeling and Higher Order Potential, submitted to Neurocomputing, 2020.
+Gui Yan, Daming Xiong, Bingqiang Zhou, Wu Wei: Improved Bilateral Space Image Segmentation with Reliable Color Modeling and Higher Order Potential, submitted to Neurocomputing, 2020.
 
 
 The code is written in VC 2015+QT, and the following packages are used:

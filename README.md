@@ -8,7 +8,7 @@ Gui Yan, Daming Xiong, Bingqiang Zhou, Wu Wei: Improved Bilateral Space Image Se
 
 
 The code is written in VC 2015+QT, and the following packages are used:
--opencv 3.4
+-opencv 3.1.0
 
 
 You can use this code for scientific purposes only. 
